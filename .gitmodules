@@ -1,3 +1,6 @@
 [submodule "display_driver"]
 	path = display_driver
 	url = https://github.com/f45d07/iic-display-driver.git
+[submodule "atomfast_driver"]
+	path = atomfast_driver
+	url = https://github.com/f45d07/atomfast-ble-driver.git
